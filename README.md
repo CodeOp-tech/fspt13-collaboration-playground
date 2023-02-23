@@ -12,4 +12,4 @@ init2(1, 2, 3);
 
 Hello
 
-here are some changes
+Here are some changes.
