@@ -1,1 +1,1 @@
-function user() {}
+function User() {}
