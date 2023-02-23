@@ -5,7 +5,7 @@ This is a test.
 ## Init function documentation
 
 ```js
-hello(1, 2)
+init2(1, 2, 3)
 ```
 
 ## Another section
