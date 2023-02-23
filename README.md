@@ -5,5 +5,5 @@ This is a test.
 ## Init function documentation
 
 ```js
-blah()
+init2(1, 2)
 ```
