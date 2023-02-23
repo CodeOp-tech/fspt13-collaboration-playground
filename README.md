@@ -5,5 +5,5 @@ This is a test.
 ## Init function documentation
 
 ```js
-init()
+init2(1, 2)
 ```
