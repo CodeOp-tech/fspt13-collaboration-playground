@@ -10,6 +10,7 @@ init2(1, 2, 3);
 
 ## Another section
 
+Hello   Im Nika
 Hello
 
 Here are some changes.
