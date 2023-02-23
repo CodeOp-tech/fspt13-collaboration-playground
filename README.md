@@ -17,4 +17,4 @@ Here are some changes.
 
 ## Golde's Section
 
-HIIIiiiiiiii
+HIIIiiiiiiii.
